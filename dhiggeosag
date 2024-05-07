@@ -7,9 +7,29 @@
     <meta name="keywords" content="Exemplo HTML.5 CTI">
     <title>geometria🧬🌻🌍🌘🌞❄️🕉️✡️🔯☯️♎⚛️*</title>
     <style type="text/css">
-        body {background-color:rgb(234, 0, 255)}
-        body {
-            color: rgb(72, 253, 0);
+         body {            
+            background: linear-gradient(to bottom, #ea00ff, #ea00ffd3); /* Gradiente suave */
+            background-image: url("https://i.pinimg.com/originals/5a/d4/7a/5ad47aae12355d55c86bcb408d88ba08.jpg");
+            background-repeat: no-repeat; /* Evita que a imagem se repita */
+            background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
+            font-family: Arial, sans-serif; /* Fonte legível */
+            color: #00ff00; /* Texto verde-limão */
+            text-align: center; /* Centraliza o conteúdo */
+            padding: 20px; /* Espaçamento interno */
+        }
+        h1 {
+            font-size: 36px; /* Tamanho maior para títulos */
+        }
+        h2 {
+            font-size: 24px; /* Tamanho menor para subtítulos */
+        }
+        p {
+            font-size: 18px; /* Tamanho padrão para parágrafos */
+            line-height: 1.5; /* Espaçamento entre linhas */
+        }
+        a {
+            color: #0066ff; /* Cor do link */
+            text-decoration: none; /* Remove sublinhado */
         }
     </style>
     <link rel="stylesheet" type="text/css" href="arqCSS.css">
@@ -18,13 +38,9 @@
 <h1>estudos antigos e funcionais</h1>
 <h2>informações sobre o Arcanjo Metetron e sua estrela, eletrocultura, eletromagnetismo e cruz de anki, geometria sagrada, vibração, Campo Mgnético</h2>
     <hr>
-    <p></p>Eletrocultura e Eletromagnetismo:
-        Eletrocultura refere-se ao uso de eletricidade ou campos eletromagnéticos para estimular o crescimento de plantas. Alguns acreditam que a exposição a campos eletromagnéticos pode melhorar a saúde das plantas e aumentar a produção.
-        O eletromagnetismo é um campo da física que estuda a relação entre eletricidade e magnetismo. Ele descreve como cargas elétricas geram campos magnéticos e vice-versa.
+    <p></p>O Arcanjo Metatron é o guardião da Árvore da Vida, um símbolo central na cabala que representa a estrutura do universo e a jornada espiritual do ser humano. Ele é considerado um mediador entre Deus e os seres humanos///Descubra os segredos da eletrocultura! Essa prática envolve o uso de eletricidade e campos eletromagnéticos para estimular o crescimento das plantas. Além disso, explore o fascinante mundo do eletromagnetismo, onde cargas elétricas geram campos magnéticos e vice-versa.///A cruz de ankh é um antigo símbolo egípcio que representa a vida eterna. Vamos explorar seu significado e conexões com a geometria sagrada, que revela padrões divinos presentes em toda a criação.///Aprenda sobre a importância da vibração em nossas vidas. Tudo no universo vibra em frequências específicas! Além disso, mergulhe no intrigante mundo do campo magnético, que envolve o poder invisível que permeia nosso planeta.
 </p>
     <hr>
-    <a href="https://agtecher.com/pt/eletro-cultura-agricultura/" style="font-size: 26px;">site sobre eletrocultura</a>
-    <img src="https://eletrocultura.com.br/wp-content/uploads/2023/04/WhatsApp-Image-2023-05-07-at-09.07.40-1152x1536.jpeg" alt="Descrição da Imagem">
 <h2>Introdução sobre Campo Mgnético</h2>
     <p>O campo magnético da Terra é uma força invisível que envolve e permeia nosso planeta. Vamos explorar os detalhes desse fenômeno e sua relação com outros tópicos interessantes:
 
@@ -48,6 +64,7 @@
         Esses espetáculos luminosos são resultado dessa interação e são verdadeiras manifestações da energia cósmica e geomagnética.</p>
         <a href="https://brasilescola.uol.com.br/fisica/o-campo-magnetico-terra.htm" style="font-size: 26px;">site sobre Campo Magnético</a>
         <img src="https://www.worldunity.me/wp-content/uploads/2018/01/particulas-atrapada-campo-magnetico.jpg" alt="Site Sobre campo magnético">
+        <iframe width="366" height="650" src="https://www.youtube.com/embed/zjmSGMocjOg" title="Como ver o campo magnético de um ímã" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <h2>Introdução sobre Arcanjo Metatron</h2>
             <p>O Arcanjo Metatron é uma figura intrigante e poderosa que desempenha um papel significativo em várias tradições espirituais. Vamos explorar sua história, significado e conexões:
 
@@ -71,6 +88,7 @@
             Em resumo, Metatron é um intermediário divino, guardião da sabedoria e testemunha das ações humanas, conectando a Terra ao céu.</p>
             <img src="https://leonardoneiva.com.br/blog/wp-content/uploads/2017/08/Metatron-1024x728.jpg" alt="Descrição da Imagem">
             <a href="https://bibliadabiblia.com.br/quem-e-metatron-na-biblia/#google_vignette" style="font-size: 26px;">site sobre Metatron</a>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/vkltVeXE3Io?si=04QP_LwUZN77yNxr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <h2>Introdução sobre Cruz de Ankh</h2>
             <p>A Cruz de Anki, também conhecida como Ankh ou Chave da Vida, é um símbolo antigo associado à cultura egípcia. Ela se assemelha a uma cruz com um laço no topo, representando a união entre o divino e o terreno. Acredita-se que o Ankh simbolize a vida eterna, a imortalidade e a conexão entre os mundos espiritual e físico.
 
@@ -113,6 +131,7 @@
                         Em resumo, as pesquisas de Nikola Tesla sobre vibrações foram uma das muitas contribuições importantes que ele fez para a ciência e tecnologia. Sua crença no potencial das vibrações para beneficiar a humanidade é uma lembrança do poder da inovação e da criatividade na resolução de problemas</p>
                         <img src="https://lh5.googleusercontent.com/tGMA-qJAEYVfb1zVKEFsluvieebMTQLZYMqkdw1yi_Yh3lRHeeZxCBH9KA6Kwyet_NGaEoM6xyR4uSE3XeAP3WwpqrtAgusMJjDgR8peK9cL4sQl42uepnBL9PtFQ5EjgnXRTLVnQ4xJFQ6zceKJ17U" alt="vibração">
                         <a href="https://www.joya.life/pt-br/blog/poderes-e-significado-da-cruz-ankh/" style="font-size: 26px;">site sobre Vibração</a>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/BGoP_a8b32I?si=DOGf84r-nv2sEMgF&amp;start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2>Eletrocultura</h2>
     <p>A agricultura de eletrocultura envolve a criação de “antenas atmosféricas” a partir de materiais como madeira, cobre, zinco e latão. Essas antenas captam a energia elétrica presente no ambiente e a direcionam para as plantas. Aqui estão alguns pontos importantes:</p>
    <h2>benefícios e Potencial</h2>
@@ -138,9 +157,8 @@
                         <li>Explore diferentes métodos e técnicas para aplicar a eletrocultura em sua plantação. Faça sempre alterações para testes e observe.</li>
         </ol>
 <h2>Em resumo, a eletrocultura é uma abordagem inovadora que utiliza a energia elétrica natural para melhorar a produção de alimentos de forma sustentável. Se você quiser saber mais detalhes ou explorar estudos de caso específicos, fique à vontade para pesquisar mais sobre o assunto! 🌱🌿</h2>
-<img src="https://ae01.alicdn.com/kf/Sf3a0428445d54642b6119e186048016cq/Fibonacci-Coil-Winding-Jig-para-Eletrocultura-Electro-Culture-Copper-Antena-fazendo-ferramenta.jpg" alt="Descrição da Imagem">
-<a href="https://agtecher.com/pt/eletro-cultura-agricultura/" style="font-size: 26px;">site sobre Eletrocultura</a>
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@sirpaulocarvalho/video/7309559531632119046" data-video-id="7309559531632119046" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@sirpaulocarvalho" href="https://www.tiktok.com/@sirpaulocarvalho?refer=embed">@sirpaulocarvalho</a> Descubra a eletrocultura, método agrícola perdido após a Segunda Guerra Mundial. Plantas mais saudáveis, ricas em vitaminas, sem pesticidas. Uma tecnologia ocultada dos tempos modernos. <a title="deus" target="_blank" href="https://www.tiktok.com/tag/deus?refer=embed">#Deus</a> <a title="eletrocultura" target="_blank" href="https://www.tiktok.com/tag/eletrocultura?refer=embed">#Eletrocultura</a> <a title="paracimadeles" target="_blank" href="https://www.tiktok.com/tag/paracimadeles?refer=embed">#ParaCimaDeles</a> <a title="despertar" target="_blank" href="https://www.tiktok.com/tag/despertar?refer=embed">#Despertar</a> <a title="tecnologia" target="_blank" href="https://www.tiktok.com/tag/tecnologia?refer=embed">#Tecnologia</a> <a title="agricultura" target="_blank" href="https://www.tiktok.com/tag/agricultura?refer=embed">#agricultura</a> <a title="agro" target="_blank" href="https://www.tiktok.com/tag/agro?refer=embed">#agro</a> <a title="agronomia" target="_blank" href="https://www.tiktok.com/tag/agronomia?refer=embed">#agronomia</a> <a title="agriculture" target="_blank" href="https://www.tiktok.com/tag/agriculture?refer=embed">#agriculture</a> <a title="a" target="_blank" href="https://www.tiktok.com/tag/a?refer=embed">#a</a> <a title="campo" target="_blank" href="https://www.tiktok.com/tag/campo?refer=embed">#campo</a> <a title="agronegocio" target="_blank" href="https://www.tiktok.com/tag/agronegocio?refer=embed">#agronegocio</a> <a title="o" target="_blank" href="https://www.tiktok.com/tag/o?refer=embed">#o</a> <a title="fazenda" target="_blank" href="https://www.tiktok.com/tag/fazenda?refer=embed">#fazenda</a> <a title="farm" target="_blank" href="https://www.tiktok.com/tag/farm?refer=embed">#farm</a> <a title="agropecuaria" target="_blank" href="https://www.tiktok.com/tag/agropecuaria?refer=embed">#agropecuaria</a> <a title="pecuaria" target="_blank" href="https://www.tiktok.com/tag/pecuaria?refer=embed">#pecuaria</a> <a title="soja" target="_blank" href="https://www.tiktok.com/tag/soja?refer=embed">#soja</a> <a title="rural" target="_blank" href="https://www.tiktok.com/tag/rural?refer=embed">#rural</a> <a title="brasil" target="_blank" href="https://www.tiktok.com/tag/brasil?refer=embed">#brasil</a> <a title="agricultor" target="_blank" href="https://www.tiktok.com/tag/agricultor?refer=embed">#agricultor</a> <a title="vidanocampo" target="_blank" href="https://www.tiktok.com/tag/vidanocampo?refer=embed">#vidanocampo</a> <a title="milho" target="_blank" href="https://www.tiktok.com/tag/milho?refer=embed">#milho</a> <a title="farming" target="_blank" href="https://www.tiktok.com/tag/farming?refer=embed">#farming</a> <a title="agricola" target="_blank" href="https://www.tiktok.com/tag/agricola?refer=embed">#agricola</a> <a title="agriculturafamiliar" target="_blank" href="https://www.tiktok.com/tag/agriculturafamiliar?refer=embed">#agriculturafamiliar</a> <a title="lavoura" target="_blank" href="https://www.tiktok.com/tag/lavoura?refer=embed">#lavoura</a> <a title="johndeere" target="_blank" href="https://www.tiktok.com/tag/johndeere?refer=embed">#johndeere</a> <a title="ria" target="_blank" href="https://www.tiktok.com/tag/ria?refer=embed">#ria</a> <a title="agroneg" target="_blank" href="https://www.tiktok.com/tag/agroneg?refer=embed">#agroneg</a> <a title="tractor" target="_blank" href="https://www.tiktok.com/tag/tractor?refer=embed">#tractor</a> <a target="_blank" title="♬ som original - Paulo Carvalho" href="https://www.tiktok.com/music/som-original-7309559592131742470?refer=embed">♬ som original - Paulo Carvalho</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1oUpuqZqFDnuO_UGKD_OkgECzHFa7uptVbEcTvQIrzt_IXy21gJQ6osbKL8g9TEi7L104tmaluf4-rK06Sf2EBaHKFX0KQrCsIb4DyqAffA5iRvMVxNjhCvQky0oyY7dBRtXV84LMry1S166CLeE9ObBBXszt322v0wxs71CVX6-2ql2wyKIMUU4DRQ/s970/plant%20antennas_electroculture.jpg" alt="Descrição da Imagem">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kfkwe7EFBaA?si=fiP2ayzhUc-puTqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </body>
 </html>
 
